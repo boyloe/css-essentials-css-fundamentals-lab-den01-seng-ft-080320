@@ -23,3 +23,10 @@ nav > a {
 width: 800px;
 align-content: center;
 }
+
+#details {
+  display: block;
+  float: left;
+}
+
+<div>
